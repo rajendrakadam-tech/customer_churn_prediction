@@ -17,3 +17,8 @@ model_registry/
 __pycache__/
 *.py[cod]
 *$py.class
+
+#ipynb checkpoints
+.ipynb_checkpoints
+
+results/
